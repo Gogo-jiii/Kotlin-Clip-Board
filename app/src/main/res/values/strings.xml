@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clipboard</string>
+    <string name="enter_data">Enter data</string>
+    <string name="copy_data">copy data</string>
+</resources>
